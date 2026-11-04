@@ -24,7 +24,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Rea</h1>
+        <h1>Reac</h1>
         <Greeting name="John" />
         <GreetingWithBorder name="Jane" />
       </div>
